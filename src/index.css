@@ -1,0 +1,19 @@
+
+
+.GraphBar {
+  display: flex;
+  justify-content: flex-start;
+
+  border: pink 2px solid;
+}
+.label {
+  border: black 1px solid;
+  width: 100px;
+  margin-right: 20px;
+}
+
+.value {
+  border: black 1px solid;
+  width: 100px;
+  text-align: center;
+}
